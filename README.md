@@ -20,3 +20,5 @@ Scaffold:
 
 <img width="1416" alt="lint failure" src="https://github.com/azamora2/python-for-devops/assets/46272391/8288cdb2-cb25-4754-8810-e86bf5d4b931">
 
+5. Build cli using python Fire library `./cli-fire.py --help` to test the logic
+
