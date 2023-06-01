@@ -1,3 +1,5 @@
+[![Python application test with Github Actions](https://github.com/azamora2/python-for-devops/actions/workflows/devops.yml/badge.svg)](https://github.com/azamora2/python-for-devops/actions/workflows/devops.yml)
+
 # python-for-devops
 
 This is a new repository for python for devops
